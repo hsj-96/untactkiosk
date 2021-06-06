@@ -1,0 +1,41 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.on {
+  color: black;
+  width: 7em;
+  height: 2.5em;
+  line-height: 2.5em;
+  margin: 0 1em;
+  border-radius: 0.5em;
+  background: #e5e5e5;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  transition: all 0.1s ease-in;
+}
+
+.off {
+  color: darkgray;
+  width: 7em;
+  height: 2.5em;
+  line-height: 2.5em;
+  margin: 0 1em;
+  border-radius: 0.5em;
+  background: #e5e5e5;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  transition: all 0.1s ease-in;
+}
+
+.homeIcon {
+  border-radius: 0.5em;
+  background: #e5e5e5;
+  padding: 0.7em 0.9em;
+  transition: all 0.1s ease-in;
+}

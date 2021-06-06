@@ -1,0 +1,29 @@
+.buttonWrapper {
+  display: flex;
+  gap: 2em;
+}
+
+.optionButton {
+  width: 9em;
+  height: 9em;
+  padding-top: 0.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f2f2f2;
+  border-radius: 0.5em;
+}
+
+.image {
+  width: 4em;
+  height: 5em;
+}
+
+.name {
+  margin: 0;
+  margin-top: 0.5em;
+}
+
+.price {
+  margin: 0;
+}

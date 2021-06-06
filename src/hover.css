@@ -1,0 +1,19 @@
+.scale10 {
+  transform: scale(1.1);
+}
+
+.scale20 {
+  transform: scale(1.2);
+}
+
+.scale30 {
+  transform: scale(1.3);
+}
+
+.scale40 {
+  transform: scale(1.4);
+}
+
+.scale50 {
+  transform: scale(1.5);
+}

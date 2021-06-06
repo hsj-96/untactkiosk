@@ -1,0 +1,109 @@
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+
+.reviewWrapper {
+  width: 45%;
+  background: #fcf4df;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.optionWrapper {
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.close {
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  border-radius: 0.5em;
+  background: #c4c4c4;
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  transition: all 0.1s ease-in;
+}
+
+.menuInfo {
+  width: 100%;
+  padding: 2em 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.menuImage {
+  width: 6em;
+  height: 10em;
+}
+
+.infoWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-items: center;
+  width: 50%;
+}
+.name,
+.price {
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.price {
+  color: #21bb1e;
+}
+
+.buttonWrapper {
+  width: 100%;
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.buttonWrapper div {
+  transition: all 0.1s ease-in;
+}
+.minus,
+.plus {
+  width: 4em;
+  height: 4em;
+}
+.count {
+  font-size: 1.5em;
+}
+
+.reviewInfo {
+  height: 70%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.save {
+  width: 90%;
+  height: 3em;
+  line-height: 3em;
+  margin: 1em auto;
+  background: #f2f2f2;
+  border-radius: 0.5em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  transition: all 0.1s ease-in;
+}

@@ -1,0 +1,50 @@
+.categoryPage {
+  width: 17em;
+  padding: 3em 0;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.5em;
+  box-shadow: 2px 2px 3px 1px #919191;
+  align-self: flex-end;
+  transition: all 0.1s ease-in;
+}
+.categoryPage .image {
+  width: 5em;
+  margin-bottom: 1em;
+}
+
+.orderPage {
+  width: 10em;
+  height: 7em;
+  background: white;
+  font-size: 0.8em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5em;
+  box-shadow: 2px 2px 3px 1px #919191;
+  align-self: flex-end;
+}
+.orderPage .image {
+  display: none;
+}
+.orderPage > h1 {
+  margin: 0;
+}
+
+.notSelected {
+  background: white;
+}
+
+.selected {
+  width: 15em;
+  background: #fac53f;
+  transition: all 0.1s ease-in;
+}
+
+.name {
+  text-align: center;
+}
