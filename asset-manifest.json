@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/untactkiosk/static/css/main.0765b749.chunk.css",
-    "main.js": "/untactkiosk/static/js/main.650a9892.chunk.js",
-    "main.js.map": "/untactkiosk/static/js/main.650a9892.chunk.js.map",
+    "main.js": "/untactkiosk/static/js/main.88ea6f3d.chunk.js",
+    "main.js.map": "/untactkiosk/static/js/main.88ea6f3d.chunk.js.map",
     "runtime-main.js": "/untactkiosk/static/js/runtime-main.1faad135.js",
     "runtime-main.js.map": "/untactkiosk/static/js/runtime-main.1faad135.js.map",
     "static/js/2.d84df7e6.chunk.js": "/untactkiosk/static/js/2.d84df7e6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1faad135.js",
     "static/js/2.d84df7e6.chunk.js",
     "static/css/main.0765b749.chunk.css",
-    "static/js/main.650a9892.chunk.js"
+    "static/js/main.88ea6f3d.chunk.js"
   ]
 }
