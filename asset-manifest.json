@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/untactkiosk/static/css/main.0765b749.chunk.css",
+    "main.js": "/untactkiosk/static/js/main.650a9892.chunk.js",
+    "main.js.map": "/untactkiosk/static/js/main.650a9892.chunk.js.map",
+    "runtime-main.js": "/untactkiosk/static/js/runtime-main.1faad135.js",
+    "runtime-main.js.map": "/untactkiosk/static/js/runtime-main.1faad135.js.map",
+    "static/js/2.d84df7e6.chunk.js": "/untactkiosk/static/js/2.d84df7e6.chunk.js",
+    "static/js/2.d84df7e6.chunk.js.map": "/untactkiosk/static/js/2.d84df7e6.chunk.js.map",
+    "index.html": "/untactkiosk/index.html",
+    "static/css/main.0765b749.chunk.css.map": "/untactkiosk/static/css/main.0765b749.chunk.css.map",
+    "static/js/2.d84df7e6.chunk.js.LICENSE.txt": "/untactkiosk/static/js/2.d84df7e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1faad135.js",
+    "static/js/2.d84df7e6.chunk.js",
+    "static/css/main.0765b749.chunk.css",
+    "static/js/main.650a9892.chunk.js"
+  ]
+}
